@@ -51,6 +51,7 @@ li {
 .profile-performance li {
   width: 30%;
   font-weight: 400;
+  font-size: .9rem;
 }
 /*Name & stats*/
 span {
